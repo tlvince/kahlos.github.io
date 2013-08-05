@@ -11,9 +11,9 @@ owner:
   avatar:         bio-photo.jpg
   email:          kahlos@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter : https://twitter.com/kahlos       
-  facebook: https://www.facebook.com/kahlostipper      
-  github: https://github.com/kahlos       
+  twitter : kahlos       
+  facebook: kahlostipper
+  github: kahlos       
   stackexchange:  
   linkedin:       
   instagram:      
