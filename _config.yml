@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Expanding Minds
+description:      Personal website of physics undergraduate Callum Vincent.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://kahlos.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Callum Vincent
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          kahlos@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter : https://twitter.com/kahlos       
+  facebook: https://www.facebook.com/kahlostipper      
+  github: https://github.com/kahlos       
   stackexchange:  
   linkedin:       
   instagram:      
@@ -35,14 +35,9 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 pygments:    true
 markdown:    kramdown
