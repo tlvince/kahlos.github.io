@@ -1,7 +1,7 @@
 title:            Expanding Minds
 description:      Personal website of physics undergraduate Callum Vincent.
-logo:             site-logo.png
-disqus_shortname: 
+logo:             expanding-minds-logo.jpg
+disqus_shortname: kahlos
 #Comment out url when working locally to resolve base urls correctly
 url:              http://kahlos.com
 
