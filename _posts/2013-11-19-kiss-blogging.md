@@ -10,6 +10,7 @@ comments: true
 Numerous quality blogs undermine the infinity of personal blogs. Using a consistent, KISS principled, search orientated writing method I hope to improve the usefulness of my writing.
 
 **KISS** - Keep It Simple, Stupid
+
 > A principle akin to occam's razor; the simplest solution is the best solution.
 
 When I visit a blog, I'll be seeking specific information most of the time. I don't care about a personal story, I don't want further information; I will filter through to find my search engine queries. For a personal blog to be useful for the motives of a typical reader it must clearly outline its information, quickly.
